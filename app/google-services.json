@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "557321691620",
+    "firebase_url": "https://androidhive-98de4.firebaseio.com",
+    "project_id": "androidhive-98de4",
+    "storage_bucket": "androidhive-98de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557321691620:android:f72aad3412d784f6",
+        "android_client_info": {
+          "package_name": "info.androidhive.firebasenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557321691620-du6ku5b5mmnf3n8p6u0ulv1qrs3mbo8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALwJn-NmvBrAY_IFmvvtLeabD4vB96hmE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
